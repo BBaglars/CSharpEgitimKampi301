@@ -316,9 +316,9 @@
             this.label16.Font = new System.Drawing.Font("Calibri", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
             this.label16.Location = new System.Drawing.Point(58, 33);
             this.label16.Name = "label16";
-            this.label16.Size = new System.Drawing.Size(171, 24);
+            this.label16.Size = new System.Drawing.Size(169, 24);
             this.label16.TabIndex = 1;
-            this.label16.Text = "Ortalama Tur Sayısı";
+            this.label16.Text = "Ortalama Tur Fiyatı";
             // 
             // panel9
             // 
