@@ -29,7 +29,7 @@
     
   ![Ekran görüntüsü 2024-12-27 000859](https://github.com/user-attachments/assets/93540bad-66f1-45c8-bb9a-ebb9c9e6972a)
       </li>
-       <li> FrmStatistics: İStatistik formu veritabanında tuttuğum verileri yani bunlara Form1 ve FrmLocations'dan daha sonra eklenebilecek, silinebilecek
+       <li> FrmStatistics: İstatistik formu veritabanında tuttuğum verileri yani bunlara Form1 ve FrmLocations'dan daha sonra eklenebilecek, silinebilecek
        veya güncellenebilecek tüm veriler üzerinde çeşitli işlemler yapar. Hangi tur daha pahalı? Toplam rehber sayısı ne? gibi sorulara cevap bulmak ve veriler 
        üzerimnde matematiksel işlemler yapmak için bu form oluşturuldu. Form verilerin istatistiksel hesaplamalarını tutan bir yapıdadır.
     
